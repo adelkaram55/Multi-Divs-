@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.thumb {
+  width: 10px;
+  height: 10px;
+  background-color: #005db7; }
+
+#board {
+  display: flex;
+  flex-flow: wrap;
+  width: 509px;
+  height: 63vh; }
+  #board .thumb {
+    width: 10px;
+    height: 8vh;
+    background-color: #005db7; }
+
+/*# sourceMappingURL=style.css.map */
